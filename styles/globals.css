@@ -180,9 +180,12 @@ header.shrink {
   transform: translateX(0);
 }
 
-.slide-description,
-.slide-btn {
+.slide-description {
   margin-top: 84px;
+}
+
+.slide-btn {
+  margin-top: 42px;
 }
 
 .slide-description > p {
